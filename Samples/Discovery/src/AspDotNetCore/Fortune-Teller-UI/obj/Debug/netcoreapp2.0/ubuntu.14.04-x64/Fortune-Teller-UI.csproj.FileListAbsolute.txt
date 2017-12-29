@@ -1,0 +1,13 @@
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\libhostpolicy.so
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\libhostfxr.so
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.deps.json
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.runtimeconfig.json
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.runtimeconfig.dev.json
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.dll
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\bin\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.pdb
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\obj\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.csproj.CoreCompileInputs.cache
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\obj\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.AssemblyInfoInputs.cache
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\obj\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.AssemblyInfo.cs
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\obj\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.dll
+C:\DOTNET\test\Samples\Discovery\src\AspDotNetCore\Fortune-Teller-UI\obj\Debug\netcoreapp2.0\ubuntu.14.04-x64\Fortune-Teller-UI.pdb
